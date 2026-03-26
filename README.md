@@ -70,14 +70,15 @@
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=EmilianoAlta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&hide=contribs&rank_icon=github" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoAlta&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmilianoAlta&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmilianoAlta&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
+![EmilianoAlta's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoAlta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoAlta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7#gh-dark-mode-only)
 
 </div>
 
@@ -88,9 +89,9 @@
 <div align="center">
 
 | Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🎙️ **Rinova-Demo** | Voice AI Agent para calificación de leads inmobiliarios | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
-| 📚 **BOOK-GO** | Plataforma de reservas moderna | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) |
+|:---:|:---:|:---:|
+| 🎙️ **[Rinova-Demo](https://github.com/EmilianoAlta/Rinova-Demo)** | Voice AI Agent para calificación de leads inmobiliarios | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| 📚 **[BOOK-GO](https://github.com/EmilianoAlta/BOOK-GO)** | Plataforma de reservas moderna | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) |
 | 🎮 **GC4iOS** | Emulador de GameCube y Wii para iOS | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 </div>
