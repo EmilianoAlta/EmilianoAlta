@@ -16,23 +16,15 @@
 
 ## 🧠 Sobre mí
 
-```yaml
-name:     Emiliano Altamirano
-alias:    EmilianoAlta
-location: México 🇲🇽
-role:     Full Stack Developer & AI Builder
-
-actualmente_construyendo:
-  - 🎙️ Rinova-Demo  → Voice AI Agent para calificación de leads inmobiliarios
-  - 📚 BOOK-GO      → Plataforma de reservas en TypeScript
-
-habilidades_clave:
-  - Agentes de IA conversacionales y de voz
-  - Desarrollo web fullstack moderno
-  - Interfaces de usuario rápidas y elegantes
-
-dato_curioso: Mi avatar es Zuko de Avatar, la leyenda de Aang 🌊🔥🌍💨
-```
+| | |
+|---|---|
+| 👤 **Nombre** | Emiliano Altamirano |
+| 📍 **Ubicación** | México 🇲🇽 |
+| 💼 **Rol** | Full Stack Developer & AI Builder |
+| 🎙️ **Proyecto actual** | [Rinova-Demo](https://github.com/EmilianoAlta/Rinova-Demo) — Voice AI Agent para bienes raíces |
+| 📚 **Otro proyecto** | [BOOK-GO](https://github.com/EmilianoAlta/BOOK-GO) — Plataforma de reservas en TypeScript |
+| 🤖 **Especialidad** | Agentes de IA conversacionales y de voz |
+| ⚡ **Fun fact** | Mi avatar es Zuko de Avatar: la leyenda de Aang 🌊🔥🌍💨 |
 
 ---
 
@@ -78,8 +70,8 @@ dato_curioso: Mi avatar es Zuko de Avatar, la leyenda de Aang 🌊🔥🌍💨
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilianoAlta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoAlta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=EmilianoAlta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&hide=contribs&rank_icon=github" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoAlta&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7" />
 
 </div>
 
@@ -91,23 +83,15 @@ dato_curioso: Mi avatar es Zuko de Avatar, la leyenda de Aang 🌊🔥🌍💨
 
 ---
 
-## 🏆 Trofeos
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EmilianoAlta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌟 Proyectos Destacados
 
 <div align="center">
 
-[![Rinova-Demo](https://github-readme-stats.vercel.app/api/pin/?username=EmilianoAlta&repo=Rinova-Demo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7)](https://github.com/EmilianoAlta/Rinova-Demo)
-&nbsp;&nbsp;
-[![BOOK-GO](https://github-readme-stats.vercel.app/api/pin/?username=EmilianoAlta&repo=BOOK-GO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7)](https://github.com/EmilianoAlta/BOOK-GO)
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🎙️ **Rinova-Demo** | Voice AI Agent para calificación de leads inmobiliarios | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| 📚 **BOOK-GO** | Plataforma de reservas moderna | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) |
+| 🎮 **GC4iOS** | Emulador de GameCube y Wii para iOS | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 </div>
 
@@ -141,7 +125,5 @@ dato_curioso: Mi avatar es Zuko de Avatar, la leyenda de Aang 🌊🔥🌍💨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ### *"El código es poesía. Cada función, un verso."* ✨
-
-![Snake animation](https://raw.githubusercontent.com/EmilianoAlta/EmilianoAlta/output/github-contribution-grid-snake-dark.svg)
 
 </div>
