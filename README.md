@@ -76,9 +76,10 @@
 
 <div align="center">
 
-![EmilianoAlta's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoAlta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoAlta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7#gh-dark-mode-only)
+![Repos](https://img.shields.io/badge/Repositorios-4-6AD3F7?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits%202026-6%2B-6AD3F7?style=for-the-badge&logo=git&logoColor=white)
+![Languages](https://img.shields.io/badge/Lenguajes-4-6AD3F7?style=for-the-badge&logo=code&logoColor=white)
+![Stars](https://img.shields.io/github/stars/EmilianoAlta?label=Stars&style=for-the-badge&logo=star&logoColor=white&color=6AD3F7)
 
 </div>
 
