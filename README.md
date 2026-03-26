@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emiliano%20Altamirano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Innovador&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Emiliano%20Altamirano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Hola%2C+soy+Emiliano+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Voice+Agent+Builder+%F0%9F%8E%99%EF%B8%8F;TypeScript+%7C+Python+%7C+C%2B%2B;Construyendo+el+futuro%2C+l%C3%ADnea+a+l%C3%ADnea+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -20,11 +20,7 @@
 |---|---|
 | 👤 **Nombre** | Emiliano Altamirano |
 | 📍 **Ubicación** | México 🇲🇽 |
-| 💼 **Rol** | Full Stack Developer & AI Builder |
-| 🎙️ **Proyecto actual** | [Rinova-Demo](https://github.com/EmilianoAlta/Rinova-Demo) — Voice AI Agent para bienes raíces |
-| 📚 **Otro proyecto** | [BOOK-GO](https://github.com/EmilianoAlta/BOOK-GO) — Plataforma de reservas en TypeScript |
-| 🤖 **Especialidad** | Agentes de IA conversacionales y de voz |
-| ⚡ **Fun fact** | Mi avatar es Zuko de Avatar: la leyenda de Aang 🌊🔥🌍💨 |
+| 💼 **Rol** | Full Stack Developer |
 
 ---
 
@@ -91,9 +87,7 @@
 
 | Proyecto | Descripción | Stack |
 |:---:|:---:|:---:|
-| 🎙️ **[Rinova-Demo](https://github.com/EmilianoAlta/Rinova-Demo)** | Voice AI Agent para calificación de leads inmobiliarios | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
 | 📚 **[BOOK-GO](https://github.com/EmilianoAlta/BOOK-GO)** | Plataforma de reservas moderna | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) |
-| 🎮 **GC4iOS** | Emulador de GameCube y Wii para iOS | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 </div>
 
